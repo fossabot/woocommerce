@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://packagist.org/packages/woocommerce/woocommerce"><img src="https://poser.pugx.org/woocommerce/woocommerce/license" alt="license"></a> 
 <a href="https://packagist.org/packages/woocommerce/woocommerce"><img src="https://poser.pugx.org/woocommerce/woocommerce/v/stable" alt="Latest Stable Version"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fivoschyk-cs%2Fwoocommerce?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fivoschyk-cs%2Fwoocommerce.svg?type=shield"/></a>
 <img src="https://img.shields.io/wordpress/plugin/dt/woocommerce.svg" alt="WordPress.org downloads">
 <img src="https://img.shields.io/wordpress/plugin/r/woocommerce.svg" alt="WordPress.org rating">
 <a href="https://travis-ci.org/woocommerce/woocommerce"><img src="https://travis-ci.org/woocommerce/woocommerce.svg?branch=master" alt="Build Status"></a>
@@ -35,3 +36,7 @@ If you have a patch or have stumbled upon an issue with WooCommerce core, you ca
 
 ## Contributing new features to the WooCommerce REST API
 If you'd like to add a feature to the next version of the REST API, contribute here: https://github.com/woocommerce/wc-api-dev
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fivoschyk-cs%2Fwoocommerce.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fivoschyk-cs%2Fwoocommerce?ref=badge_large)
